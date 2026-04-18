@@ -1,0 +1,248 @@
+{
+    "data": {
+        "Binary Exploitation": [
+            {
+                "category": "Binary Exploitation",
+                "description": "gatau ah mls\r\n\r\n\r\n[nc infinity.antix.or.id 9595](https://)\r\n\r\n\r\nAuthor: **Daicy**",
+                "files": [
+                    "/files/33a9825e120238a2654655ad5854a6a8/chall?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjV9.aPJZTw.2w89ho0j4cr5nsKSiAc8lnmRnBw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "hmm\ud83e\udd14",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Binary Exploitation",
+                "description": "duh kali ini ga main-main, admin lagi main pacman tapi dia gak kenyang-kenyang, duh piye iki\ud83e\udd23. \r\ncepat bantu aku kasih makan biar dia kenyang sebelum dikejar Blinky, Pinky, Inky, dan Clyde.\r\n\r\n[nc infinity.antix.or.id 9199]()\r\n\r\nAuthor: **Kaguai10**",
+                "files": [
+                    "/files/20d42e36cb3303830721519f8b925191/chall_piyee?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTh9.aPJZTw.LvPDBJC-CEG3tI-BgcyopECFAL8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "piye",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Binary Exploitation",
+                "description": "Can u figure out how to win?\r\n\r\n\r\n\r\n[nc infinity.antix.or.id 9175](https://)\r\n\r\n\r\nAuthor: **Daicy**",
+                "files": [
+                    "/files/27440bef7ca85cbcda4c142ecf166842/chall?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjZ9.aPJZTw.cCV36NcCfDhxCQddtEJaGfO7seg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "wlee\ud83d\ude1b",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "GOKS= Gausah Overthinking, Klar Selesai\r\n\r\n[nc infinity.antix.or.id 7766]()\r\n\r\nAuthor: **Kaguai10**",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "goks!",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Cryptography",
+                "description": "kalo kamu tau rsa es yang dipengenin penulis nanti dikasi flag loh, syaratnya harus jawab ini xixixi\r\n\r\n\r\n\r\n\r\n\r\nAuthor: **Haxvi Rayer**",
+                "files": [
+                    "/files/fe49d2a2a5b2fddba6ccde0f670b5f8d/output.txt?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTV9.aPJZTw.XWvMEMFNbB4CYzouCGegVGEdVD8",
+                    "/files/62969cf9f7fed317d0493029c239c7bc/chall.py?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTZ9.aPJZTw.uHMx1RmLhiRxF5cSa9bkqQ0pKHM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Minum es rsa apa hari ini",
+                "points": 335,
+                "solves": 0
+            },
+            {
+                "category": "Cryptography",
+                "description": "If you can solve this, you'll get aura +10000000\r\n\r\n\r\n\r\n\r\n\r\nAuthor: **Daicy**",
+                "files": [
+                    "/files/47964281dded66c0d9f08ee042bda4d0/chall.py?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjJ9.aPJZTw.W0rbXQ9JgDlZTD6cdV7hlb6Dtdc",
+                    "/files/63c6a96483ac82153bfd8d38d2afae03/flag.enc?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjN9.aPJZTw.vlRk6YJKJMt3sxezyu0xgBkMWdc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Aura\ud83e\udd76",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Digital Forensics": [
+            {
+                "category": "Digital Forensics",
+                "description": "Bro, tolongin aku dong, aku lagi ketipu terus sama tukang nipu ini. Katanya dia nyimpen sesuatu penting, coba aja telpon atau chat, siapa tau ada jejak yang bisa kita bongkar. Karena kamu jago forensik, yaudah aku serahin urusan ini ke kamu. Tapi hati-hati, dia udah siapin banyak tipu daya buat ngecoh kita. Di dunia ini nggak ada yang tau siapa yang bener siapa yang salah, siapa yang jujur siapa yang bohong. Bisa aja aku yang ditipu, atau malah kamu yang lagi dipermainkan, xixixixi. Yah, namanya dunia emang aneh gak ada yang tahu soalnya etmin punyanya tempe wkwkwk.\r\nsemangat yaaa \ud83d\udc9e\r\n\r\n\r\nAuthor: **Kaguai10**",
+                "files": [
+                    "/files/f03aceefe86bdef9a35466522898f98e/tukang_nipu.pcap?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTd9.aPJZTw.tHElM881A8jf9p-sFTce8rTk9nY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Tukang Nipu",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Digital Forensics",
+                "description": "Mr. Arif left his traces all over the place, do you know the way to track it and spill the messages?\r\n\r\n\r\n\r\n\r\nAuthor: **Daicy**",
+                "files": [
+                    "/files/4912929f7aaf0620c288fe0631649fe0/classic.pcap?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTJ9.aPJZTw.INw0FJN1Jj68WBmUEvwEDfDwRMQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "Zecretz\ud83e\udd2b",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Digital Forensics",
+                "description": "do you know about PNG dimensions?\r\n\r\nflag format: SMKN22{}\r\n\r\n\r\nAuthor: **CivillanSauce**",
+                "files": [
+                    "/files/191d2cacdaaf5e8250b8c41e260be234/massimiliano-morosinotto.png?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjR9.aPJZTw.phs74_ynBHsS8a0DFymF2POxan8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Evil PNG\ud83d\ude08",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Digital Forensics",
+                "description": "makasih udah ngasi kebahagiaan yang sebelumnya belum pernah aku rasain. aku harap kamu juga ngerasain apa yang aku rasain ya? maaf kalo aku ada salah atau sempet nyakitin kamu. loveeeee u loveee u moree semestaaku\ud83c\udf0f\r\n\r\nkata orang beruntung dari hal yang kecil itu harus selalu bersyukur tapi ini aku beruntung bangetttt bisa dimiliki sama kamuuu bersyukur aja masih kurang haha. aku juga mau berusaha nyenengin kamu, itu rasa terimakasihku karena bisa dimiliki kamu, dan berusaha buat ngetreat kamu dengan baik, makasih ya udah terus dukung dan jadi pendengar yang baik buat aku. jangan lupa pentingin dan sayangi diri kamu dulu ya baru sayang sama aku, gimanapun diri kamu sendiri lebih penting, ily pretty, have a pleasant day for tomorrow & forever\ud83d\udc49\ud83d\udc48\ud83e\udd7a\ud83d\udc90\ud83d\ude14\ud83e\udd70\ud83d\uddff\ud83c\udf0f\ud83d\ude3b\ud83d\ude01\r\n\r\n[https://drive.google.com/file/d/1e1p462DsCzkJepKNauCcGlS6yVfbjtSV/view?usp=drive_link](https://drive.google.com/file/d/1e1p462DsCzkJepKNauCcGlS6yVfbjtSV/view?usp=drive_link)\r\n\r\nAuthor: **Daicy**",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "karbit\ud83d\ude02",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "![](https://media.tenor.com/iNFHYajV1rAAAAAi/spongebob.gif)\r\n\r\n\r\n\r\n\r\n\r\nAuthor: **Daicy**",
+                "files": [
+                    "/files/94031de177d3d6073b2b143dd0daabc5/baby?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6OX0.aPJZTw.oae502eKUWtveAjM6Kvh6Jy20rY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "bruh\ud83e\udd26",
+                "points": 335,
+                "solves": 0
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "duh pusing yaaa? xorry yeee, xorry yee\ud83e\udd1e\r\n![](https://miro.medium.com/v2/resize:fit:1400/0*bRKJwHV3jgUA5YNV)\r\n\r\nAuthor: **Kaguai10**",
+                "files": [
+                    "/files/543a6acc85215256e40a8d7e1792551a/rev_chall?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTl9.aPJZTw.JROBG2UhKDarThNUPmtlaJmXi2k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "FLAG or NGELAG",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Yes, this is the same as before, but I will not let you see it easily. Go try to catch it if you can\r\n\r\n\r\nAuthor: **Daicy**",
+                "files": [
+                    "/files/d51235f431dc36de9e08ecc896f7f352/chall?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTR9.aPJZTw.udhzoDxe1tpMgnQeMuUGXRn9QtU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "\u304b\u304f\u308c\u3093\u307c\ud83d\udc40",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Sanity Check": [
+            {
+                "category": "Sanity Check",
+                "description": "###### SMKN22{n1c3_g00d_j0b_s3m4ng4t_g4s_n4s10n4l_h4h4h4_g00dl4k}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Nice Warmup",
+                "points": 100,
+                "solves": 0
+            }
+        ],
+        "Web Exploitatiton": [
+            {
+                "category": "Web Exploitatiton",
+                "description": "**etmin sebenarnya jago buat web** wkwkwkwkwk, tapi sekarang etmin mengandalkan si gpt, dan sayangnya si robot pintar itu menghancurkan web etmin, dan dia membuat kloninya di web etmin. dia meninggalkan banyak catatan yang penting, tapi sayang etmin lupa dimana letaknya. Sekarang Bantu etmin masuk ke webnya dan bersihkan semua kerentanannya nanti etmin kasih *flag* janjiiii deehhh...... Etmin gak pernah bohong, karena kalau bohong nanti dosa kalau enggak percaya tanya ajaa pak ustadz\r\n\r\n[buka web etmin disini](http://infinity.antix.or.id:4444)\r\n\r\nAuthor: **Kaguai10**",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "YEEA (Yang Etmin Etmin Ajaa)",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web Exploitatiton",
+                "description": "jujurly, gw juga gak tau ini soal cryptography atau web eksploit. gw juga bingung serta heran. cari tau ajaa deh katanya kamu jago CTFkan?\r\n\r\n[nih webnya langsung coba ajaa](http://infinity.antix.or.id:4442)\r\n\r\nkarena admin baik, jadi ini gw kasih source code-nya. Baca ajaa nih lho cari tau sendiri : )\r\n\r\nAuthor: **Kaguai10**",
+                "files": [
+                    "/files/ebc1f09b6d319e7231b2ecc7492532c6/chall.zip?token=eyJ1c2VyX2lkIjozMiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjF9.aPJZUA.RbaiSIcNmrB6cmjkbZS1DuPfMJI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Apaan nih",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web Exploitatiton",
+                "description": "Main CTF modal hoki mana bisa? wkwkwkwkwk. Kalau gak bisa main ctf, mending minum **formula 12** ajaa deh biar nanti gede jadi hengker. (kalau mau clue tambahan selesaikan misi di web mimin)\r\n\r\n[ini web mimin](http://infinity.antix.or.id:4443)\r\n\r\nsemangat yaaa inget hengker itu gak mudah nyerah broo\r\n\r\nAuthor: **Kaguai10**",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "Modal Hoki\ud83e\udd2a",
+                "points": 500,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "SMKN 22 CTF",
+    "url": "http://infinity.antix.or.id:8000"
+}
